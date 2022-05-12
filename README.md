@@ -7,4 +7,4 @@ My interests are mathematics and machine learning, and I like to deal with vario
 
 
 ### Enviroments
-![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
+![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=Microsoft)
