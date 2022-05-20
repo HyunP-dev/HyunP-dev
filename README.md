@@ -7,4 +7,4 @@ My interests are mathematics and machine learning, and I like to deal with vario
 
 
 ### Enviroments
-![](https://img.shields.io/static/v1?label=&message=Ubuntu%20Budgie&color=white&logo=ubuntu) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=Microsoft)
+![](https://img.shields.io/static/v1?label=&message=Ubuntu%20Budgie%2022.04%20LTS&color=white&logo=ubuntu) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=Microsoft)
