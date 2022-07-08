@@ -9,7 +9,7 @@ Recently I develop programs that I need but don't have.
 
 
 ### Enviroments
-![](https://img.shields.io/static/v1?label=&message=Ubuntu%20Budgie%2022.04%20LTS&color=white&logo=ubuntu) ![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
+![](https://img.shields.io/static/v1?label=&message=Manjaro&color=white&logo=manjaro) ![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
 
 
 ### Messengers
