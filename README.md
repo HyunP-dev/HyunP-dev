@@ -14,6 +14,6 @@ Recently I develop programs that I need but don't have.
 
 ### Messengers
 ```
-Session: 05885d921c989c8813dda5b412bedfdd16a137b7ddb64a021ec7d661e6d992c342  
-Discord: 박현#3457  
+Session: 05bf402af7339f142a34bf051496fd2080ad1a12e935c3e83d3cad41d124af0a41
+Discord: 박현#3457
 ```
