@@ -1,5 +1,11 @@
 반갑습니다, 저는 한림대학교 정보과학대학에서 빅데이터를 전공하고 있는 박현입니다. 주 관심사는 수학과 머신러닝이고 다양한 프로그래밍 언어를 접해보는 것을 좋아하며 최근 카테고리 이론에 대해 접하게 돼 가끔씩 공부 중입니다.
 
+### 프로젝트
+- Webcam-Filter-Camera
+- Sensor-Analyser
+- Kana-Practice
+- G27-to-XBOX-Converter
+- Candy-Crain-3DS
 
 ### 기술 스택
 #### 프로그래밍 언어
