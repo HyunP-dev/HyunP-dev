@@ -8,7 +8,7 @@
 - Candy-Crain-3DS
 
 ### 프리랜서 외주 경험
-- Raspberry PI 및 Arduino를 활용한 간단한 시연용 키오스크 개발
+- Raspberry PI (Linux) 및 Arduino를 활용한 간단한 시연용 키오스크 개발
 - 기능성 챗봇 맞춤 제작
 
 ### 기술 스택
