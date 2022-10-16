@@ -17,7 +17,7 @@
 
 
 #### 프레임워크
-![](https://img.shields.io/static/v1?label=&message=.NET%20Framework&logo=dotnet&color=blue) ![](https://img.shields.io/static/v1?label=&message=Qt&logo=qt&color=white) ![](https://img.shields.io/static/v1?label=&message=LÖVE%20Potion&logo=lua&color=blue) etc...
+![](https://img.shields.io/static/v1?label=&message=.NET%20Framework&logo=dotnet&color=blue) ![](https://img.shields.io/static/v1?label=&message=Qt&logo=qt&color=white) ![](https://img.shields.io/static/v1?label=&message=LÖVE%20Potion&logo=lua&color=blue)
 
 #### 사용 중인 컴퓨터의 운영체제
 ![](https://img.shields.io/static/v1?label=&message=openSUSE%2015.4&color=white&logo=opensuse&logoColor=) ![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
