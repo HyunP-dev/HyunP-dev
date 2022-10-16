@@ -27,6 +27,5 @@
 ### 연락처
 
 ```
-Session: 05bf402af7339f142a34bf051496fd2080ad1a12e935c3e83d3cad41d124af0a41
 Discord: 박현#3457
 ```
