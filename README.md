@@ -7,6 +7,11 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - G27-to-XBOX-Converter
 - Candy-Crain-3DS
 
+### School Projects
+- A Study on the Disgusting Pattern in the Comments of Internet Articles
+- Implementing a propensity-determining model for strings containing two conflicting words
+- Prevention of colds by predicting the change of seasons
+
 ### Freelance Experience
 - Development a simple demonstration kiosk using Linux and Arduino
 - Development a customized functional chatbots
