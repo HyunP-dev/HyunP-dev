@@ -8,7 +8,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - Candy-Crain-3DS
 
 ### School Projects
-- A Study on the Disgusting Pattern in the Comments of Internet Articles
+- A study on the disgusting pattern in the comments of internet articles
 - Implementing a propensity-determining model for strings containing two conflicting words
 - Prevention of colds by predicting the change of seasons
 
