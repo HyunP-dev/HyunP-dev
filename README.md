@@ -26,7 +26,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 ![](https://img.shields.io/static/v1?label=&message=.NET%20Framework&logo=dotnet&color=blue) ![](https://img.shields.io/static/v1?label=&message=Qt&logo=qt&color=white) ![](https://img.shields.io/static/v1?label=&message=LÖVE%20Potion&logo=lua&color=blue)
 
 #### OS what I use current:
-![](https://img.shields.io/static/v1?label=&message=Fedora%20Scientific%20Spin&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
+![](https://img.shields.io/static/v1?label=&message=Fedora&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
 
 <hr></hr>
 
