@@ -12,6 +12,13 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - Implementing a propensity-determining model for strings containing two conflicting words
 - Prevention of colds by predicting the change of seasons
 
+### Labotory Activities
+- Embeded Lab (2nd grade ~ )
+  - Study about a pedometer with IMU sensors.
+  - Development of logger which tracks wearer's bio datas.
+- Digital Health Lab (4th grade ~ )
+  - Machine learning to deal with bio datas.
+
 ### Freelance Experience
 - Development a simple demonstration kiosk using Linux and Arduino
 - Development a customized functional chatbots
