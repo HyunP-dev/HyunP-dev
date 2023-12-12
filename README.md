@@ -6,10 +6,10 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - Prevention of colds by predicting the change of seasons
 
 ### Labotory Activities
-- Embeded Lab (2nd grade ~ )
+- Embeded Lab (2021. ~ )
   - Study about a pedometer with IMU sensors.
   - Development of logger which tracks wearer's bio datas.
-- Digital Health Lab (4th grade ~ )
+- Digital Health Lab (2023. ~ )
   - Machine learning to deal with bio datas.
 
 ### Freelance Experience
