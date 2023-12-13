@@ -4,6 +4,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - A study on the disgusting pattern in the comments of internet articles
 - Implementing a propensity-determining model for strings containing two conflicting words
 - Prevention of colds by predicting the change of seasons
+- Development of a data analyser with machine learning using tomcat apache
 
 ### Labotory Activities
 - Embeded Lab (2021. ~ )
