@@ -5,6 +5,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - Implementing a propensity-determining model for strings containing two conflicting words
 - Prevention of colds by predicting the change of seasons
 - Development of a data analyser with machine learning using apache tomcat
+- An experience about where are able to be think of as artifects using VM and hashes
 
 ### Labotory Activities
 - Embeded Lab (2021. ~ )
