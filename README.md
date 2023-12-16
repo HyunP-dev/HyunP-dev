@@ -39,5 +39,6 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 ### Contact
 
 ```
-Discord: 박현#3457
+email   : hyunp.dev@gmail.com
+Discord : 박현#3457
 ```
