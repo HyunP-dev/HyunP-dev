@@ -29,6 +29,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 
 #### Fields
 - Desktop Applications
+- Back-end
 
 #### OS what I use current:
 ![](https://img.shields.io/static/v1?label=&message=Fedora&color=white&logo=fedora) <!--![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)-->
