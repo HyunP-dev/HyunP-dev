@@ -1,0 +1,97 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+\moderncvtheme{classic}
+
+\usepackage[scale=0.8]{geometry}
+\recomputelengths
+
+\renewcommand{\labelitemi}{\null\ $\bullet$}
+
+\usepackage{fontspec}
+\setmainfont{NanumSquare}
+
+\usepackage{setspace}
+\setstretch{1.25}
+
+% \firstname{현}
+% \familyname{박}
+\name{\textbf{박\ \ 현}}{}
+\title{}
+\address{서울시 동대문구 전농동}{사가정로 190}
+\mobile{+82 10 8465 6774}
+\email{hyunp.dev@gmail.com}
+\extrainfo{2000년생, 남성}
+\photo[64pt]{85296811.jpeg}
+% \quote{Any intelligent fool can make things bigger, more complex,
+% and more violent. It takes a touch of genius -- and a lot of courage -- to
+% move in the opposite direction.}
+\begin{document}
+\maketitle
+
+\section{학력}
+\cvline{2019년 졸업}{\textbf{동국대학교사범대학부속고등학교,} 서울특별시}
+\cventry{2020. $\sim$ }{한림대학교}{강원도 춘천시}{}{}
+{
+주전공: 정보과학대학 소프트웨어학부 빅데이터전공\\
+복수전공: 정보과학대학 소프트웨어학부 스마트IoT전공
+}
+
+\section{경력}
+\cventry{2021. 07.}{아몬딘}{서울특별시}{}{1개월 단기 프리랜서}
+{
+백엔드 및 특허기능개발에 참여하고 그 외 IT 관련의 자문을 맡음.
+}
+
+\section{연구실 활동 이력}
+\cventry{2021. $\sim$ }{임베디드 연구실}{한림대학교}{}{학부연구생}
+{사용자의 생체 데이터를 분석 가능한 형태로 기록하는 어플리케이션의 개발과 여러가지 신호처리 기법들을 활용해 정상적으로 기록되었는지 분석하는 작업을 주로 수행함.}
+
+\cventry{2023. $\sim$ }{디지털의료 미래연구소}{한림대학교}{}{학부연구생}
+{임상 실험을 보조하고 생체 데이터를 k-NN이나 Random Forest와 같은 머신러닝 기법들을 적용해 환자를 구분해내는 과제를 수행함.}
+
+\section{교내 활동 이력}
+\cventry{2023.}{2023-1학기 소프트웨어학부 전공 멘토링}{}{}{}
+{{\footnotesize 한림대학교 4학년 1학기 (2023)}\\
+    소프트웨어학부 1학년과 타 전공 학생들을 대상으로 절차적 프로그래밍과 객체지향 프로그래밍에 대한 전반적인 내용을 지도하였음.}
+\cventry{2023.}{2023년 하계 해외 IT 연수}{}{}{}
+{{\footnotesize 한림대학교 4학년 여름방학 중 2023년 7월  24일 $\sim$ 8월  4일}\\
+    University of York 에서 Culture and Computer Sciences 코스를 이수하였음.}
+
+\section{교내 프로젝트}
+\cvline{}{\ $\bullet$\ \ 인터넷 기사의 악성 댓글 양상에 관한 분석}
+\cvline{}{\ $\bullet$\ \ 상반된 두 단어를 포함하는 문자열에 대한 성향 결정 모델의 구현}
+\cvline{}{\ $\bullet$\ \ 환절기 예측을 통한 감기 예방}
+\cvline{}{\ $\bullet$\ \ Apache Tomcat와 R, LaTeX를 이용한 온라인 데이터 분석기의 구현}
+\cvline{}{\ $\bullet$\ \ VM과 해시를 이용한 인터넷 접속 흔적에 대한 실험}
+
+\section{기술 스택}
+\cvline{Back-end}{Apache Tomcat, MySQL, Flask, Express}
+\cvline{Statistics}{Visualization, Machine Learning}
+\cvline{Report}{LaTeX, Markdown, HTML5, draw.io}
+\cvline{Languages}{FORTRAN, Python, GNU S (R), MATLAB, 
+C/C++, Java, CSharp, JavaScript, Shell}
+\cvline{Games devs}{Love2D, Unity}
+\cvline{GUI devs}{Windows Forms, GTK, Qt}
+\cvline{Embedded}{Arduino, Linux}
+\cvline{Dev tools}{Jetbrains IDE, VSCode, Kate}
+
+\section{수상 내역}
+\cventry{}{2021 Hallym SW Week}{한림대학교}{2021 SW Coding Festival}{동상}
+{교내 소프트웨어 행사 중 코딩 테스트 대회에 참여해 동상을 수상하였음.}
+
+\section{깃허브 저장소}
+\cventry{}{internet-cleaner}{}{}{}
+{{\footnotesize \url{https://github.com/HyunP-dev/internet-cleaner}}\\
+스마일게이트에서 제공하는 한국어 혐오표현 데이터셋의 베이스라인 모델을 REST 서버로 내부적으로 서비스하게 해 작성하였음.}
+\cventry{}{Kana-Practice-GTKMM4}{}{}{}
+{{\footnotesize \url{https://github.com/HyunP-dev/Kana-Practice-GTKMM4}}\\
+GTK의 C++ Wrapper인 GTKMM4을 이용해 데스크탑 어플리케이션을 만들어보고자 연습 목적으로 만들게 되었음.}
+\cventry{}{G27-to-XBOX-Converter}{}{}{}
+{{\footnotesize \url{https://github.com/HyunP-dev/G27-to-XBOX-Converter}}\\
+G27를 사용하던 중 낮은 호환성에 불편함을 느끼게 되어 만들게 되었음.}
+\cventry{}{peerism-data-manager}{}{}{}
+{{\footnotesize \url{https://github.com/hallym-peerism/peerism-data-manager}}\\
+캡스톤디자인으로 진행하게 된 프로젝트로 센서 로깅을 블록체인 기술을 활용해 안전하게 저장할 수 있는 데이터베이스 프로그램을 개발하였음. GUI 환경의 프로그램으로 제공.}
+\ \\
+\cventry{}{}{}{}{}{------\\그 외 저장소들은 {\url{https://github.com/HyunP-dev}}에서 확인하실 수 있습니다.}
+\end{document}
