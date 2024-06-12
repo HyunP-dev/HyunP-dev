@@ -1,4 +1,4 @@
-Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My main interest is math, and I like to experience various programming languages, and I have recently come across category theory, so I am studying it from time to time.
+Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My main interest is math, and I like to experience various programming languages, and I have recently come across category theory, so I am studying it from time to time.
 
 ### School Projects
 - A study on the disgusting pattern in the comments of internet articles
