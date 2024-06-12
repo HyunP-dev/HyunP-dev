@@ -8,10 +8,10 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 - An experiment about where are able to be think of as artifects using VM and hashes
 
 ### Labotory Activities
-- Embeded Lab (2021. ~ )
+- Embeded Lab (2021. 08. ~ 2023. 12.)
   - Study about a pedometer with IMU sensors.
   - Development of logger which tracks wearer's bio datas.
-- Digital Health Lab (2023. ~ )
+- Digital Health Lab (2023. 07. ~ 2023. 12.)
   - Machine learning to deal with bio datas.
 
 ### Freelance Experience
@@ -30,6 +30,7 @@ Nice to meet you, I'm Park Hyun, majoring in big data at Hallym University. My m
 #### Fields
 - Desktop Applications
 - Back-end
+- Digital Forensics
 
 #### OS what I use current:
 ![](https://img.shields.io/static/v1?label=&message=Fedora&color=white&logo=fedora) <!--![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)-->
