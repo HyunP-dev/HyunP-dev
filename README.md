@@ -18,7 +18,7 @@ Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My ma
 - Development a simple demonstration kiosk using Linux and Arduino
 - Write a MessengerBot script to run customized functional chatbot
 - Development the Scraper GUI Program for a specific sites
-- Development a customized functional Slack chatbot using Apps Script
+- Development a customized functional Slack chatbot using Google Apps Script
 
 ### Company Experience
 - AbleSECU (2024. 02. ~ 2024. 10.), Customer Service Engineer
