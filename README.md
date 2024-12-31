@@ -20,8 +20,9 @@ Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My ma
 - Development the Scraper GUI Program for a specific sites
 
 ### Company Experience
-- AbleSECU (2024. 02. ~ 2024. 10.)
+- AbleSECU (2024. 02. ~ 2024. 10.), Customer Service Engineer
   - Computer Forensics
+- Seoul Metropolitan Office of Education (2024. 10. ~ 2026. 07), Social Service Personnel
 
 ### Programming Skills Stack
 #### Languages
