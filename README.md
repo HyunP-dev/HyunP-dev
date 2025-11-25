@@ -40,7 +40,7 @@ Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My ma
 - Digital Forensics
 
 #### OS what I use current:
-![](https://img.shields.io/static/v1?label=&message=Fedora&color=white&logo=fedora) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows)
+![](https://img.shields.io/static/v1?label=&message=macOS&color=silver&logo=apple) ![](https://img.shields.io/static/v1?label=&message=Windows%2011&color=blue&logo=windows11)
 
 <hr>
 
