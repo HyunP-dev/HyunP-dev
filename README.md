@@ -7,7 +7,7 @@ Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My ma
 - Development of a data analyser with machine learning using apache tomcat
 - An experiment about where are able to be think of as artifects using VM and hashes
 
-### Labotory Activities
+### Laboratory Activities
 - Embeded Lab (2021. 08. ~ 2023. 12.)
   - Study about a pedometer with IMU sensors.
   - Development of logger which tracks wearer's bio datas.
