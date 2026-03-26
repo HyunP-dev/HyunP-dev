@@ -1,11 +1,60 @@
 Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My main interest is math, and I like to experience various programming languages, and I have recently come across category theory, so I am studying it from time to time.
 
-### School Projects
-- A study on the disgusting pattern in the comments of internet articles
-- Implementing a propensity-determining model for strings containing two conflicting words
-- Prevention of colds by predicting the change of seasons
-- Development of a data analyser with machine learning using apache tomcat
-- An experiment about where are able to be think of as artifects using VM and hashes
+<h3>OSS Projects</h3>
+    <ul>
+        <li>
+            flashlight
+            <span class="links">
+                <a href="https://github.com/hyunp-dev/flashlight">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+                <a href="https://hyunp-dev.github.io/flashlight/">
+                    <i class="fa-solid fa-book"></i>
+                </a>
+            </span>
+            <ul>
+                <li>Category: Python module</li>
+                <li>This tool is for responding to CSAM on dark net.</li>
+            </ul>
+        </li>
+        <li>
+            ocaml-forensics
+            <span class="links">
+                <a href="https://github.com/hyunp-dev/ocaml-forensics">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </span>
+            <ul>
+                <li>Category: OCaml library</li>
+                <li>Digital forensics library for OCaml.</li>
+            </ul>
+        </li>
+        <li>
+            kakaotalk-exporteds-analyser-wpf
+            <span class="links">
+                <a href="https://github.com/hyunp-dev/kakaotalk-exporteds-analyser-wpf">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </span>
+            <ul>
+                <li>Category: Windows Application</li>
+                <li>A WPF application for analyzing exported KakaoTalk chat logs.</li>
+            </ul>
+        </li>
+        <li>
+            ani2mcape
+            <span class="links">
+                <a href="https://github.com/hyunp-dev/ani2mcape">
+                    <i class="fa-brands fa-github"></i>
+                </a>
+            </span>
+            <ul>
+                <li>Category: Command Line Program</li>
+                <li>A tool to convert ani cursor files to mousescape cursor plist which can be used to set a mouse
+                    cursor image on macOS.</li>
+            </ul>
+        </li>
+    </ul>
 
 ### Laboratory Activities
 - Embeded Lab (2021. 08. ~ 2023. 12.)
