@@ -1,4 +1,4 @@
-Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. My main interest is math, and I like to experience various programming languages, and I have recently come across category theory, so I am studying it from time to time.
+Nice to meet you, I'm Park Hyun, majored in big data at Hallym University. I work in the field of digital forensics currently while writing forensic scripts as you can read my repositories.
 
 ### Laboratory Activities
 - Embeded Lab (2021. 08. ~ 2023. 12.)
