@@ -16,6 +16,7 @@ Nice to meet you, I'm Park Hyun, majored in information science at Hallym Univer
 ### Company Experience
 - AbleSECU (2024. 02. ~ 2024. 10.), Customer Service Engineer
   - Windows Forensics
+- AbleSECU (2026. 09. ~ now)  
 
 ### Programming Skills Stack
 #### Languages
