@@ -14,7 +14,7 @@ Nice to meet you, I'm Park Hyun, majored in information science at Hallym Univer
 - Development a customized functional Slack chatbot using Google Apps Script
 
 ### Company Experience
-- AbleSECU (2024. 02. ~ 2024. 10.), Customer Service Engineer
+- AbleSECU (2024. 02. ~ 2024. 10.), Customer Service Engineer (Fixed-term employee)
   - Windows Forensics
 - AbleSECU (2026. 09. ~ now)  
 
